@@ -29,7 +29,7 @@ https://www.forbes.com/health/nutrition/coffee-vs-tea/</p>
 <br>
 <img src="./images/Tea Solves Everything.JPG" alt="Tea Solves Everything">
 <br>
-<p>This is a popular beverage that you can drink with breakfast, lunch or dinner. It is also beneficial for persons who are sensitive to caffeine or wish to reduce their intake</p>
+<p>This is a popular beverage that you can drink with breakfast, lunch or dinner. It is also beneficial for persons who are sensitive to caffeine or wish to reduce their intake.</p>
 <br>
 <img src="./images/Spill the Tea.JPG" alt="Spill The Tea">
 <br>
@@ -39,13 +39,13 @@ https://www.forbes.com/health/nutrition/coffee-vs-tea/</p>
 <br>
 <img src="./images/Tea Love.JPG" alt=Tea Love">
 <h2>Lastly, Relaxation Time</h2>
-<p>Many herbal teas, such as chamomile and lavender, having calming properties that can help reduce stress, promote relaxation, and improve sleep quality</p>
+<p>Many herbal teas, such as chamomile and lavender, having calming properties that can help reduce stress, promote relaxation, and improve sleep quality.</p>
 <br>
 <img src="./images/Now, That&apos;s Why We Choose Tea.JPG" alt=That's why we Choose Tea>
 <br>
 <p>It's important to note that while these benefits are supported by research and reputable sources, individual responses to tea consumption may vary.</p>
 
-<h1>Credits</h1>
+<h1>Credits:</h1>
 
 https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/caffeine/art-20049372
 
