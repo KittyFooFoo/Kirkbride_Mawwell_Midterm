@@ -1,6 +1,7 @@
 # Kirkbride_Mawwell_Midterm
 Coffee VS Tea
 
+<img src="./images/Coffee2.png">
 Coffee is a superior choice when it comes to a hot or cold beverage to sip on; especially in the mornings.
 Coffee has a higher caffeine content than any tea which causes a higher level of alertness, which is very beneficial for a good start to any day.
 This improved alertness can help increase your safety with driving, operating machinery, or other jobs or tasks that require high alertness for your and every one else's safety.
