@@ -39,11 +39,6 @@ Coffee VS Tea
 
 <h1>Coffee VS Tea</h1>
 <br>
-****
-****
-<br>
-Coffee VS Tea
-
 <img src="./images/Coffee2.png">
 <p>Coffee is a superior choice when it comes to a hot or cold beverage to sip on; especially in the mornings.
 Coffee has a higher caffeine content than any tea which causes a higher level of alertness, which is very beneficial for a good start to any day.
@@ -61,5 +56,3 @@ it's chlorogenic acid has been shown in studies to improve insulin sensitivity.<
 <p>https://www.washingtonpost.com/wellness/interactive/2022/coffee-vs-tea-nutrition-health/
 https://www.forbes.com/health/nutrition/coffee-vs-tea/</p>
 <br>
-****
-****
