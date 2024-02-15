@@ -2,7 +2,6 @@
 
 <h1>Coffee VS Tea</h1>
 <br>
-Coffee VS Tea
 
 <img src="./images/Coffee2.png">
 <p>Coffee is a superior choice when it comes to a hot or cold beverage to sip on; especially in the mornings.
@@ -20,6 +19,7 @@ it's chlorogenic acid has been shown in studies to improve insulin sensitivity.<
 <br>
 <p>https://www.washingtonpost.com/wellness/interactive/2022/coffee-vs-tea-nutrition-health/
 https://www.forbes.com/health/nutrition/coffee-vs-tea/</p>
+
 <br>
 
 Why Choose Tea? Great Question!
@@ -33,5 +33,5 @@ Tea is essentially gentler on your stomach since it has less acidic than coffee 
 <br>
 Lastly, Relaxation Time!
 
-
+<br>
 
