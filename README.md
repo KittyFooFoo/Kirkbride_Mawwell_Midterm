@@ -1,4 +1,5 @@
 # Kirkbride_Mawwell_Midterm
+
 <h1>Coffee VS Tea</h1>
 <br>
 <img src="./images/Coffee2.png">
@@ -11,6 +12,7 @@ This improved alertness can help increase your safety with driving, operating ma
 and helping you feel better by improving your gut health with it's polyphonols which feed beneficial bacterias.
 Not only that, but it can help save your life in the long term by lowering your risk of several cancers as much as 13%; as well as preventing type 2 diabetes by as much as 25%;
 it's chlorogenic acid has been shown in studies to improve insulin sensitivity.</p>
+<br>
 
 <h2>Credits</h2>
 <br>
